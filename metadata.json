@@ -1,0 +1,6 @@
+{
+  "name": "Pengajuan Kartu Kredit On-The-Spot",
+  "description": "Aplikasi responsive untuk pendaftaran dan pengajuan kartu kredit nasabah secara langsung (on-the-spot) dalam event oleh petugas bank.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
